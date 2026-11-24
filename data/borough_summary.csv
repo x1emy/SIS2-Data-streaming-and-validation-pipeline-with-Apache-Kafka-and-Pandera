@@ -1,0 +1,7 @@
+borough,crashes,total_injured,avg_injured,total_killed,avg_vehicles
+Brooklyn,321,220,0.69,0,1.69
+Queens,269,177,0.66,0,1.78
+Manhattan,172,88,0.51,1,1.69
+Bronx,152,107,0.7,0,1.64
+Staten Island,40,26,0.65,0,1.5
+Unknown,28,20,0.71,0,1.64
